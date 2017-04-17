@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="214fee98-ba2b-40fb-8110-7b349f876f21" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="new_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/new_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3840">
+              <caret line="256" column="32" lean-forward="false" selection-start-line="256" selection-start-column="32" selection-end-line="256" selection-end-column="32" />
+              <folding>
+                <marker date="1491447413000" expanded="true" signature="1847:1854" ph="SELECT * FRO... product" />
+                <marker date="1491447413000" expanded="true" signature="1847:1905" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1912" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1920" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1934" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1935" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1936" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="1847:1992" ph="SELECT type_... product_type" />
+                <marker date="1491447413000" expanded="true" signature="6306:6389" ph="SELECT * fro... product" />
+                <marker date="1491447413000" expanded="true" signature="7050:7213" ph="SELECT clien... client" />
+                <marker date="1491447413000" expanded="true" signature="8511:8674" ph="SELECT clien... client" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="specific_listing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/specific_listing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main Dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/Main Dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+                <marker date="1492397053000" expanded="true" signature="3058:4325" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3156:4247" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3248:3387" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3461:4156" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3503:3616" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3658:3755" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3658:3761" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3803:3896" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="3803:3902" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="4007:4111" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="4007:4117" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="4504:4536" ph="..." />
+                <marker date="1492397053000" expanded="true" signature="4504:6461" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dashboard_Main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/Dashboard_Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect to webdev.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/connect to webdev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_conn.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/db_conn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <marker date="1492435521000" expanded="true" signature="361:382" ph="SELECT * FRO... product" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/products.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>populate</find>
+      <find>number</find>
+      <find>../</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ex.php" />
+        <option value="$PROJECT_DIR$/ex1.html" />
+        <option value="$PROJECT_DIR$/index_1.php" />
+        <option value="$PROJECT_DIR$/user_login_page.php" />
+        <option value="$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/login.html" />
+        <option value="$PROJECT_DIR$/SquareList/pages/login.html" />
+        <option value="$PROJECT_DIR$/SquareList/pages/signup.html" />
+        <option value="$PROJECT_DIR$/SquareList/pages/signup_2.php" />
+        <option value="$PROJECT_DIR$/SquareList/pages/signup_3.php" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/Retreive_Listings.php" />
+        <option value="$PROJECT_DIR$/db_conn.php" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/new_index.php" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/individual_listing.php" />
+        <option value="$PROJECT_DIR$/Shop Item/startbootstrap-shop-item-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/specific_listing.php" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/spec_listing.php" />
+        <option value="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/new_index.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/spec_listing.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/index.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/new_index.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/login.html" />
+        <option value="$PROJECT_DIR$/SquareList/Main/login.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/Sign_up.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/connect to webdev.php" />
+        <option value="$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/index.html" />
+        <option value="$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/panels-wells.html" />
+        <option value="$PROJECT_DIR$/SquareList/Main/Main Page.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/Verify Login.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/login.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/verify login.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/panels-wells.html" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/products.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/Main Dashboard.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/NEW/Dashboard_Main.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/OLD/connect to webdev.php" />
+        <option value="$PROJECT_DIR$/SquareList/Main/OLD/db_conn.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OLD" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SquareList" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="javascript.nodejs.core.library.configured.version" value="7.5.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SquareList/Main/NEW" />
+      <recent name="$PROJECT_DIR$/SquareList/Main" />
+      <recent name="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/css" />
+      <recent name="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages" />
+      <recent name="$PROJECT_DIR$/SquareList/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SquareList/Main/OLD" />
+      <recent name="$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages" />
+      <recent name="$PROJECT_DIR$/Admin Page" />
+      <recent name="$PROJECT_DIR$/Shop Item" />
+      <recent name="$PROJECT_DIR$/Shop Homepage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.connect to webdev.php">
+    <configuration default="false" name="panels-wells.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SquareList/SquareList/Main/NEW/panels-wells.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SquareList/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Main Dashboard.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SquareList/SquareList/Main/NEW/Main Dashboard.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="Dashboard_Main.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SquareList/SquareList/Main/NEW/Dashboard_Main.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="connect to webdev.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SquareList/SquareList/Main/OLD/connect to webdev.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.panels-wells.html (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Main Dashboard.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Dashboard_Main.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.connect to webdev.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.connect to webdev.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Dashboard_Main.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Main Dashboard.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.panels-wells.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="214fee98-ba2b-40fb-8110-7b349f876f21" name="Default" comment="" />
+      <created>1488228690746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488228690746</updated>
+      <workItem from="1488228692017" duration="415000" />
+      <workItem from="1488229387030" duration="919000" />
+      <workItem from="1488747885056" duration="242000" />
+      <workItem from="1490793615376" duration="2698000" />
+      <workItem from="1490820831547" duration="2861000" />
+      <workItem from="1490828396925" duration="374000" />
+      <workItem from="1490900291950" duration="1131000" />
+      <workItem from="1490902246035" duration="3121000" />
+      <workItem from="1490967695732" duration="468000" />
+      <workItem from="1491008472545" duration="107000" />
+      <workItem from="1491149465856" duration="31347000" />
+      <workItem from="1491425501093" duration="104000" />
+      <workItem from="1491426017450" duration="12597000" />
+      <workItem from="1491570220140" duration="462000" />
+      <workItem from="1491696188820" duration="213000" />
+      <workItem from="1491865726462" duration="292000" />
+      <workItem from="1491917934242" duration="1846000" />
+      <workItem from="1492391896315" duration="6551000" />
+      <workItem from="1492401770248" duration="2000" />
+      <workItem from="1492406063964" duration="1099000" />
+      <workItem from="1492409052766" duration="307000" />
+      <workItem from="1492435496874" duration="621000" />
+      <workItem from="1492436788304" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67903000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3984064" sideWeight="0.53125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39721793" sideWeight="0.46875" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ex1.html" />
+    <entry file="file://$PROJECT_DIR$/ex.php" />
+    <entry file="file://$PROJECT_DIR$/ex1.html" />
+    <entry file="file://$PROJECT_DIR$/ex.php" />
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shop Homepage/startbootstrap-shop-homepage-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79252">
+          <caret line="1454" column="21" lean-forward="true" selection-start-line="1454" selection-start-column="21" selection-end-line="1454" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_1.php" />
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/user_login_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/SquareList/data/flot-data.js" />
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/css/3-col-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/SquareList/pages/login.html" />
+    <entry file="file://$PROJECT_DIR$/SquareList/pages/signup.html" />
+    <entry file="file://$PROJECT_DIR$/SquareList/pages/signup_2.php" />
+    <entry file="file://$PROJECT_DIR$/3 Column Portfolio/Retreive_Listings.php" />
+    <entry file="file://$PROJECT_DIR$/3 Column Portfolio/startbootstrap-3-col-portfolio-gh-pages/individual_listing.php" />
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/pages/signup_3.php" />
+    <entry file="file://$PROJECT_DIR$/Sidebar/startbootstrap-simple-sidebar-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/specified_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="43" column="42" lean-forward="false" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/css/shop-item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shop Item/startbootstrap-shop-item-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/vendor/flot/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/dist/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/Sign_up.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-333">
+          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/Main Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/spec_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/panels-wells.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="69" column="12" lean-forward="false" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/panels-wells.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/verify login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin Page/startbootstrap-sb-admin-2-gh-pages/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/Main Dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+            <marker date="1492397053000" expanded="true" signature="3058:4325" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3156:4247" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3248:3387" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3461:4156" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3503:3616" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3658:3755" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3658:3761" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3803:3896" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="3803:3902" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="4007:4111" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="4007:4117" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="4504:4536" ph="..." />
+            <marker date="1492397053000" expanded="true" signature="4504:6461" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/new_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="256" column="32" lean-forward="false" selection-start-line="256" selection-start-column="32" selection-end-line="256" selection-end-column="32" />
+          <folding>
+            <marker date="1491447413000" expanded="true" signature="1847:1854" ph="SELECT * FRO... product" />
+            <marker date="1491447413000" expanded="true" signature="1847:1905" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1912" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1920" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1934" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1935" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1936" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="1847:1992" ph="SELECT type_... product_type" />
+            <marker date="1491447413000" expanded="true" signature="6306:6389" ph="SELECT * fro... product" />
+            <marker date="1491447413000" expanded="true" signature="7050:7213" ph="SELECT clien... client" />
+            <marker date="1491447413000" expanded="true" signature="8511:8674" ph="SELECT clien... client" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/NEW/Dashboard_Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/specific_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/connect to webdev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SquareList/Main/OLD/db_conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <marker date="1492435521000" expanded="true" signature="361:382" ph="SELECT * FRO... product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
